@@ -53,4 +53,3 @@ python main.py
 
 - NumPy, SciPy, OpenCV, scikit-image, scikit-learn, matplotlib
 - (Optional) PyTorch/TensorFlow for real CNN features
-- reportlab (for PDF report generation)
